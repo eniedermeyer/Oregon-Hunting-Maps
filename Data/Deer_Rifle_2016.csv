@@ -1,0 +1,114 @@
+Seas Type,Zone,Unit Name,Season/Tag/Hunt,Total Hunters,Does,Total Bucks,Spikes,Forks,3 Points,4 Point +,Harvest Total,Success (%)
+Controlled,Northwest,McKenzie,119A High Cascade,317,2,20,0,9,5,6,22,7
+Controlled,Northwest,Santiam,119A High Cascade,728,4,80,0,19,26,35,84,12
+Controlled,Southwest,Dixon,119A High Cascade,63,0,4,0,2,0,2,4,6
+Controlled,Southwest,Indigo,119A High Cascade,85,2,2,0,0,0,2,4,5
+Controlled,Southwest,Melrose,123A Umpqua,41,1,17,0,2,3,12,18,44
+Controlled,Southwest,Melrose,123B N Bank Habitat,8,0,5,0,3,0,2,5,63
+Controlled,Southwest,Rogue,119A High Cascade,97,0,9,0,4,5,0,9,9
+Controlled,South Central,Fort Rock,119A High Cascade,25,0,0,0,0,0,0,0,0
+Controlled,South Central,Fort Rock,177 Fort Rock Unit,2218,0,447,27,186,108,126,447,20
+Controlled,South Central,Interstate,175 Interstate Unit,1630,0,823,105,308,229,181,823,50
+Controlled,South Central,Interstate,175T Interstate Youth,36,1,32,0,1,4,27,33,92
+Controlled,South Central,Keno,119A High Cascade,10,0,0,0,0,0,0,0,0
+Controlled,South Central,Keno,131 Keno Unit,880,0,277,73,95,64,45,277,31
+Controlled,South Central,Klamath Falls,132 Klamath Falls Unit,823,0,332,37,102,88,105,332,40
+Controlled,South Central,Silver Lake,176 Silver Lake Unit,1740,0,410,67,179,91,73,410,24
+Controlled,South Central,Sprague,133 Sprague Unit,467,0,128,13,66,27,22,128,27
+Controlled,Central,Grizzly,138 Grizzly Unit,1226,0,473,30,162,129,152,473,39
+Controlled,Central,Maury,136 Maury Unit,384,0,120,13,43,27,37,120,31
+Controlled,Central,Metolius,139 Metolius Unit,425,0,157,25,41,36,55,157,37
+Controlled,Central,Ochoco,137 Ochoco Unit,2552,0,670,69,284,169,148,670,26
+Controlled,Central,Paulina,135 Paulina Unit,1631,0,428,37,191,84,116,428,26
+Controlled,Central,Upper Deschutes,134 Upper Deschutes Unit,2224,0,447,47,161,95,144,447,20
+Controlled,Columbia,Biggs,143A E Biggs,577,1,322,10,58,107,147,323,56
+Controlled,Columbia,Biggs,143B West Biggs,903,6,548,36,116,215,181,554,61
+Controlled,Columbia,Hood,141A Hood-White Rvr.,8,0,2,0,0,2,0,2,25
+Controlled,Columbia,Hood,142A Hood Unit,471,13,97,20,35,25,17,110,23
+Controlled,Columbia,Hood,142B Hood Unit,13,0,4,0,1,1,2,4,31
+Controlled,Columbia,Maupin,140 Maupin Unit,419,3,215,15,56,66,78,218,52
+Controlled,Columbia,White River,141A Hood-White Rvr.,110,4,31,0,17,7,7,35,32
+Controlled,Columbia,White River,141B White Rvr Unit,1826,0,583,82,150,182,169,583,32
+Controlled,Columbia,White River,141C White Rvr Unit,15,0,13,0,0,3,10,13,87
+Controlled,Columbia,White River,141T The Dallas Watershed,5,0,5,0,0,1,4,5,100
+Controlled,Northeast,Beulah,165 Beulah Unit,1859,0,902,68,374,252,208,902,49
+Controlled,Northeast,Beulah,165A Se Beulah,467,0,221,18,74,65,64,221,47
+Controlled,Northeast,Catherine Creek,153 Catherine Cr Unit,419,0,188,9,63,40,76,188,45
+Controlled,Northeast,Chesnimnus,158 Chesnimnus Unit,485,0,239,19,97,57,66,239,49
+Controlled,Northeast,Columbia Basin,144 Columbia Basin,1634,14,926,38,233,318,337,940,58
+Controlled,Northeast,Desolation,150 Desolation Unit,1055,0,349,43,123,82,101,349,33
+Controlled,Northeast,Fossil,145 Fossil Unit,1836,0,744,46,205,228,265,744,41
+Controlled,Northeast,Heppner,148 Heppner Unit,2824,0,797,71,286,184,256,797,28
+Controlled,Northeast,Imnaha,161 Imnaha Unit,626,0,251,22,79,65,85,251,40
+Controlled,Northeast,Keating,163 Keating Unit,508,0,296,15,100,75,106,296,58
+Controlled,Northeast,Lookout Mountain,164 Lookout Mt Unit,313,0,197,5,64,54,74,197,63
+Controlled,Northeast,Minam,160 Minam Unit,503,0,221,6,61,61,93,221,44
+Controlled,Northeast,Mt. Emily,154A E Mt Emily,212,0,102,7,32,22,41,102,48
+Controlled,Northeast,Mt. Emily,154B W Mt Emily,465,0,223,7,76,64,76,223,48
+Controlled,Northeast,Mt. Emily,154C Mt. Emily,13,0,11,0,2,1,8,11,85
+Controlled,Northeast,Murderer's Creek,146 Murderers  Cr Unit,888,0,443,38,186,107,112,443,50
+Controlled,Northeast,Northside,147 Northside Unit,1149,0,407,33,143,79,152,407,35
+Controlled,Northeast,Pine Creek,162 Pine Cr Unit,348,0,172,14,60,39,59,172,49
+Controlled,Northeast,Sled Springs,157 Sled Springs Unit,1615,0,928,74,360,231,263,928,57
+Controlled,Northeast,Snake River,159 Snake Rvr Unit,247,0,112,3,33,32,44,112,45
+Controlled,Northeast,Starkey,152A Starkey,666,0,177,13,81,33,50,177,27
+Controlled,Northeast,Starkey,152B Starkey Exp Forest,22,0,6,1,2,3,0,6,27
+Controlled,Northeast,Sumpter,151 Sumpter Unit,1446,0,624,46,237,141,200,624,43
+Controlled,Northeast,Ukiah,149 Ukiah Unit,1562,0,511,19,170,135,187,511,33
+Controlled,Northeast,Walla Walla,155A Walla Walla Unit,220,0,129,9,38,32,50,129,59
+Controlled,Northeast,Walla Walla,155B Mill Cr Watershed,2,0,0,0,0,0,0,0,0
+Controlled,Northeast,Wenaha,156 Wenaha Unit,404,0,203,21,88,53,41,203,50
+Controlled,Southeast,Beatys Butte,170A Beatys Butte,207,0,101,0,33,32,36,101,49
+Controlled,Southeast,Juniper,171A N Juniper,95,0,41,1,9,14,17,41,43
+Controlled,Southeast,Juniper,171B S Juniper,95,0,25,1,13,7,4,25,26
+Controlled,Southeast,Malheur River,166 Malheur Rvr Unit,1701,0,775,52,291,210,222,775,46
+Controlled,Southeast,Owyhee,167 Owyhee Unit,465,0,270,8,87,80,95,270,58
+Controlled,Southeast,Owyhee,167A NE Owyhee,126,0,69,3,24,18,24,69,55
+Controlled,Southeast,Silvies,172 Silvies Unit,969,0,474,43,158,111,162,474,49
+Controlled,Southeast,Steens Mountain,169A Steens Mt,287,0,177,7,37,34,99,177,62
+Controlled,Southeast,Wagontire,173 Wagontire Unit,177,0,79,4,28,24,23,79,45
+Controlled,Southeast,Warner,174A N Warner,53,0,43,0,15,6,22,43,81
+Controlled,Southeast,Warner,174B S Warner,284,0,123,14,53,35,21,123,43
+Controlled,Southeast,Warner,174T Warner Unit Youth,20,0,16,2,3,6,5,16,80
+Controlled,Southeast,Whitehorse,168A Trout Cr Mts,74,0,54,0,5,13,36,54,73
+Controlled,Southeast,Whitehorse,168B E Whitehorse,253,0,139,5,49,35,50,139,55
+General,Northwest,Alsea,W General Deer,4417,6,1010,4,523,303,180,1016,23
+General,Northwest,Alsea,W General Deer w/ Controlled Rifle Tag,93,0,21,0,11,6,4,21,23
+General,Northwest,McKenzie,W General Deer,4241,50,671,18,295,208,150,721,17
+General,Northwest,McKenzie,W General Deer w/ Controlled Rifle Tag,272,3,43,0,16,13,14,46,17
+General,Northwest,Saddle Mountain,W General Deer,3392,4,729,4,348,285,92,733,22
+General,Northwest,Saddle Mountain,W General Deer w/ Controlled Rifle Tag,63,1,15,0,8,6,1,16,25
+General,Northwest,Santiam,W General Deer,7407,76,971,24,417,309,221,1047,14
+General,Northwest,Santiam,W General Deer w/ Controlled Rifle Tag,547,5,99,1,36,29,33,104,19
+General,Northwest,Scappoose,W General Deer,2392,5,540,2,251,188,99,545,23
+General,Northwest,Scappoose,W General Deer w/ Controlled Rifle Tag,20,0,6,0,2,3,1,6,30
+General,Northwest,Siuslaw,W General Deer,2597,2,639,4,304,197,134,641,25
+General,Northwest,Siuslaw,W General Deer w/ Controlled Rifle Tag,46,0,18,0,9,6,3,18,39
+General,Northwest,Stott Mt.,W General Deer,1551,5,335,2,193,92,48,340,22
+General,Northwest,Stott Mt.,W General Deer w/ Controlled Rifle Tag,34,0,11,0,5,3,3,11,32
+General,Northwest,Trask,W General Deer,5655,4,1211,10,550,425,226,1215,21
+General,Northwest,Trask,W General Deer w/ Controlled Rifle Tag,62,1,18,0,9,6,3,19,31
+General,Northwest,Willamette,W General Deer,5474,24,939,12,416,308,203,963,18
+General,Northwest,Willamette,W General Deer w/ Controlled Rifle Tag,54,0,18,0,6,10,2,18,33
+General,Northwest,Wilson,W General Deer,2418,2,499,1,229,169,100,501,21
+General,Northwest,Wilson,W General Deer w/ Controlled Rifle Tag,37,0,7,0,5,2,0,7,19
+General,Southwest,Applegate,W General Deer,3211,5,857,9,320,306,222,862,27
+General,Southwest,Applegate,W General Deer w/ Controlled Rifle Tag,24,0,5,0,2,2,1,5,21
+General,Southwest,Chetco,W General Deer,1741,1,676,2,298,235,141,677,39
+General,Southwest,Chetco,W General Deer w/ Controlled Rifle Tag,7,0,4,0,2,1,1,4,57
+General,Southwest,Dixon,W General Deer,2485,9,663,2,270,246,145,672,27
+General,Southwest,Dixon,W General Deer w/ Controlled Rifle Tag,76,0,25,0,13,9,3,25,33
+General,Southwest,Evans Creek,W General Deer,1823,5,580,4,236,218,122,585,32
+General,Southwest,Evans Creek,W General Deer w/ Controlled Rifle Tag,19,0,11,0,5,2,4,11,58
+General,Southwest,Indigo,W General Deer,1957,17,409,4,181,136,88,426,22
+General,Southwest,Indigo,W General Deer w/ Controlled Rifle Tag,64,1,9,0,3,2,4,10,16
+General,Southwest,Melrose,W General Deer,3342,29,1112,13,456,389,254,1141,34
+General,Southwest,Melrose,W General Deer w/ Controlled Rifle Tag,48,0,13,0,2,4,7,13,27
+General,Southwest,Powers,W General Deer,1743,0,619,4,246,204,165,619,36
+General,Southwest,Powers,W General Deer w/ Controlled Rifle Tag,26,0,11,0,4,4,3,11,42
+General,Southwest,Rogue,W General Deer,6633,0,1272,4,422,505,341,1272,19
+General,Southwest,Rogue,W General Deer w/ Controlled Rifle Tag,129,0,31,1,7,17,6,31,24
+General,Southwest,Sixes,W General Deer,1237,2,517,6,238,176,97,519,42
+General,Southwest,Sixes,W General Deer w/ Controlled Rifle Tag,5,0,3,0,1,2,0,3,60
+General,Southwest,Tioga,W General Deer,3456,2,1062,1,460,366,235,1064,31
+General,Southwest,Tioga,W General Deer w/ Controlled Rifle Tag,29,0,15,0,3,5,7,15,52
